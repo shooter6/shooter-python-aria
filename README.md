@@ -151,6 +151,9 @@ sudo docker build . -t mirror-bot
 sudo docker run mirror-bot
 ```
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+
 # Using service accounts for uploading to avoid user rate limit
 For Service Account to work, you must set USE_SERVICE_ACCOUNTS="True" in config file or environment variables
 Many thanks to [AutoRClone](https://github.com/xyou365/AutoRclone) for the scripts
