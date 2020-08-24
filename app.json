@@ -9,8 +9,8 @@
       "python"
     ],
     "repository": "https://github.com/lzzy12/python-aria-mirror-bot",
-    "website": "https://github.com/xxxxxxx/python-aria-mirror-bot/tree/staging-4.0-mega",
-    "success_url": "https://github.com/xxxxxxxx/python-aria-mirror-bot/blob/staging-4.0-mega/README.md",
+    "website": "https://github.com/shooter6/shooter-python-aria",
+    "success_url": "https://github.com/shooter6/shooter-python-aria/blob/master/README.md",
     "stack": "container",
     "env": {
       "ENV": {
